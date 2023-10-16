@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S+YKva001C5DgNwxZ2gZTvWKwTdZ9ZNGBHDdyhXxJF4ljfXJv+oVCv9+eKo1tCvmC9rjz3ZJVmzcZwbwmf0qnw==",
+  "success": true,
+  "projectFilePath": "/home/Ame/Code/C#/TryCatch/TryCatch/TryCatch.csproj",
+  "expectedPackageFiles": [
+    "/home/Ame/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.11/microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/home/Ame/Code/C#/TryCatch/TryCatch/bin/Debug/net7.0/TryCatch
+/home/Ame/Code/C#/TryCatch/TryCatch/bin/Debug/net7.0/TryCatch.deps.json
+/home/Ame/Code/C#/TryCatch/TryCatch/bin/Debug/net7.0/TryCatch.runtimeconfig.json
+/home/Ame/Code/C#/TryCatch/TryCatch/bin/Debug/net7.0/TryCatch.dll
+/home/Ame/Code/C#/TryCatch/TryCatch/bin/Debug/net7.0/TryCatch.pdb
+/home/Ame/Code/C#/TryCatch/TryCatch/obj/Debug/net7.0/TryCatch.csproj.AssemblyReference.cache
+/home/Ame/Code/C#/TryCatch/TryCatch/obj/Debug/net7.0/TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+/home/Ame/Code/C#/TryCatch/TryCatch/obj/Debug/net7.0/TryCatch.AssemblyInfoInputs.cache
+/home/Ame/Code/C#/TryCatch/TryCatch/obj/Debug/net7.0/TryCatch.AssemblyInfo.cs
+/home/Ame/Code/C#/TryCatch/TryCatch/obj/Debug/net7.0/TryCatch.csproj.CoreCompileInputs.cache
+/home/Ame/Code/C#/TryCatch/TryCatch/obj/Debug/net7.0/TryCatch.dll
+/home/Ame/Code/C#/TryCatch/TryCatch/obj/Debug/net7.0/refint/TryCatch.dll
+/home/Ame/Code/C#/TryCatch/TryCatch/obj/Debug/net7.0/TryCatch.pdb
+/home/Ame/Code/C#/TryCatch/TryCatch/obj/Debug/net7.0/TryCatch.genruntimeconfig.cache
+/home/Ame/Code/C#/TryCatch/TryCatch/obj/Debug/net7.0/ref/TryCatch.dll
